@@ -16,10 +16,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 
-/**
- * LyraApp Profile & Settings (Profil ve Ayarlar) Screen Implementation
- * Following Material Design 3 and LyraApp Design System
- */
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ProfileScreen() {
