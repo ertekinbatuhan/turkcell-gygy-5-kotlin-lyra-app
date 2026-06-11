@@ -1,5 +1,6 @@
 package com.flowbytestudio.lyraapp
 
+/*
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -94,3 +95,4 @@ fun SettingsItem(icon: androidx.compose.ui.graphics.vector.ImageVector, title: S
         }
     }
 }
+*/

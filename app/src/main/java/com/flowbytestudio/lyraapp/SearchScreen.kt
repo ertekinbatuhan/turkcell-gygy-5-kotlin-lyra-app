@@ -1,5 +1,6 @@
 package com.flowbytestudio.lyraapp
 
+/*
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
@@ -114,3 +115,4 @@ fun CategoryCard(name: String, color: Color) {
         }
     }
 }
+*/
